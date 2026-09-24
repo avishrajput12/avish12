@@ -1,0 +1,8 @@
+{
+  "name": "Google Merchandise Store - GA4 Conversion Optimized",
+  "description": "High-converting Google Merchandise Store clone engineered with 4 GA4 data-backed operational optimizations: Homepage bounce rate re-architecture, Paid Search funnel alignment, Tokyo/APAC geo-personalization, and express guest checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
